@@ -20,19 +20,42 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# "Construindo Músculos O Guia Definitivo para Ganho de Massa"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+> Descubra o Segredo dos Físicos Incríveis!
+
+📝 Apresentando: "Construindo Músculos - O Guia Definitivo para Ganho de Massa"
+
+Você está cansado de treinar sem ver resultados? Quer transformar seu corpo de uma vez por todas?
+Este é o guia que você estava esperando! Com uma abordagem completa e prática, "Construindo Músculos"
+oferece tudo o que você precisa para maximizar seus ganhos de massa muscular de forma eficiente e segura.
+
+O Que Você Vai Encontrar no E-book:
+
+Rotinas de Exercícios Poderosas: Desenvolvidas por especialistas,
+ essas rotinas são projetadas para trabalhar todos os grupos musculares de forma intensa e eficaz.
+
+Dietas Ricas em Proteínas: Saiba exatamente o que comer e quando comer para otimizar a construção muscular.
+Incluímos planos de refeições detalhados que são fáceis de seguir e deliciosos!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ -- Copilot
+ -- Canva
+ -- [Craiyon](https://www.craiyon.com/)
+ -- [Openart.ai](https://openart.ai/create)
+ 
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ Conversei com o Copilot para construir um e-book sobre dieta e treino para ganho de massa muscular,
+depois da ideia criada, pedi para o openart.ai e craiyon gerar imagens de pessoas treinando
+ para poder colocar no e-book, por fim editei texto e imagens no canva.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E-book criado com sucesso, tem informações importantes e dicas sobre treino e dieta,
+porém tem muitos pontos de melhoria
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -40,9 +63,8 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK]([Construindo Músculos O Guia Definitivo para Ganho de Massa.pdf](https://github.com/user-attachments/files/17264878/Construindo.Musculos.O.Guia.Definitivo.para.Ganho.de.Massa.pdf)
+)
 
 ## Links Interessantes
 
